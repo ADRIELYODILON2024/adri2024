@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é ADRIELY FERREIRA
+Meu nome é ADRIELY FERRIERA
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,5 +10,6 @@ Meu nome é ADRIELY FERREIRA
 
 adrielyfk3@gmail.com
 
+@marcelopaludetto
 
-![descrição do GIF]([link GIF do Tenor](https://media1.tenor.com/m/6Xl8qi0FxCwAAAAC/no.gif)
+![descrição do GIF](https://media1.tenor.com/m/6Xl8qi0FxCwAAAAC/no.gif)
