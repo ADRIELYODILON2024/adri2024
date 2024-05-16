@@ -10,6 +10,6 @@ Meu nome é ADRIELY FERRIERA
 
 adrielyfk3@gmail.com
 
-@marcelopaludetto
+
 
 ![descrição do GIF](https://media1.tenor.com/m/6Xl8qi0FxCwAAAAC/no.gif)
